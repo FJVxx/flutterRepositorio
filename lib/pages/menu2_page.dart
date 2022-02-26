@@ -4,6 +4,8 @@ import 'package:contador/pages/contador_page.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
+//
+
 class Menu2Pages extends StatelessWidget {
   const Menu2Pages({Key? key}) : super(key: key);
 
